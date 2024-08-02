@@ -27,7 +27,7 @@
 			<string>Auth0 Samples</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.auth0.samples</string>
+				<string>mypagesdebug</string>
 			</array>
 		</dict>
 	</array>

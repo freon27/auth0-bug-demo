@@ -4,7 +4,7 @@ const config: CapacitorConfig = {
   appId: 'com.auth0.samples',
   appName: 'Auth0 Samples',
   webDir: 'www',
-  plugins: {},
+  plugins: {}
 };
 
 export default config;
